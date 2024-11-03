@@ -1,6 +1,7 @@
 # New Icon Removed
 
 This is a mod for [WEBFISHING](https://webfishing.pro) that removes the NEW icon from new cosmetics you get.  
+
 This was  primarily made for the purpose of Lure Cosmetics showing as “NEW” every time you entered the game. No more clearing out all the notifications every time you load in, all NEW icons will be invisible. Made for the mod [Colors Expanded](https://thunderstore.io/c/webfishing/p/GardenGals/Colors_Expanded/). 
 
 # **Required Dependencies:**
